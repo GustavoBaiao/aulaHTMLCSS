@@ -67,6 +67,25 @@ body {
     font-family: var(--font-primaria);
 }
 
+.apresentacao__conteudo__subtitulo{
+    font-size: 1.8rem;
+    font-family: var(--font-primaria);
+}
+
+.apresentacao__conteudo__lista{
+    list-style-type:initial;      
+    color: var(--cor-terciaria);
+    font-family:var(--font-segundaria) ;
+    font-size: 1.5rem;
+       
+}
+
+.apresentacao__conteudo__sublista{
+    list-style: none;    
+    color: var(--cor-secundaria);
+    font-size: 1.3rem;
+}
+
 .apresentacao__conteudo__texto {
     font-size: 1.5rem;
     font-family: var(--font-segundaria);
